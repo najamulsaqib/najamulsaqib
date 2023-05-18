@@ -45,7 +45,7 @@
 
 </pre> -->
 
-<pre>
+<!-- <pre>
 
      .-') _             _   .-')    
     ( OO ) )           ( '.( OO )_  
@@ -57,7 +57,7 @@
 |  | \   |   |  '-'  /  |  |   |  | 
 `--'  `--'    `-----'   `--'   `--' 
 
-</pre>
+</pre> -->
 
-<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300"> -->
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
 
