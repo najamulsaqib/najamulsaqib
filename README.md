@@ -57,7 +57,15 @@
 |  | \   |   |  '-'  /  |  |   |  | 
 `--'  `--'    `-----'   `--'   `--' 
 
+-    (Trait: Coffeenista) +20% coffee instake
 </pre> -->
+
+**Character Specs:**
+```diff
++    +3 Node,TS, React
++    +2 React Native
++    +1 Python
+```
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
 
