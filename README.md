@@ -62,7 +62,7 @@
 
 **Character Specs:**
 ```diff
-+    +3 Node,TS, React
++    +3 Node, TS, React
 +    +2 React Native
 +    +1 Python
 ```
