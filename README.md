@@ -79,7 +79,13 @@
   </picture>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=najamulsaqib&bg_color=161b22&color=93B1A6&line=5C8374&point=183D3D&area=true&hide_border=true&hide_title=true&area_color=93B1A6" width="100%" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=najamulsaqib&bg_color=161b22&color=93B1A6&line=5C8374&point=183D3D&area=true&hide_border=true&hide_title=true&area_color=93B1A6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=najamulsaqib&bg_color=fff&color=5C8374&line=93B1A6&point=93B1A6&area=true&hide_border=true&hide_title=true&area_color=183D3D" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=najamulsaqib&bg_color=161b22&color=93B1A6&line=5C8374&point=183D3D&area=true&hide_border=true&hide_title=true&area_color=93B1A6" width="100%" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="80%">
