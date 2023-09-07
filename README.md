@@ -59,7 +59,9 @@
 
 -    (Trait: Coffeenista) +20% coffee instake
 </pre> -->
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200">
+</p>
 
 **Character Specs:**
 ```diff
@@ -67,12 +69,18 @@
 +    +2 React Native
 +    +1 Python
 ```
+<!--
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://andreffmiranda.com/static/media/gif2.6bff444d95e3d9468485.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
   </picture>
+</p>
+-->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="80%">
 </p>
 
 <p align="center">
