@@ -81,7 +81,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=najamulsaqib&bg_color=161b22&color=93B1A6&line=5C8374&point=183D3D&area=true&hide_border=true&hide_title=true&area_color=93B1A6" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=najamulsaqib&bg_color=161b22&color=5C8374&line=5C8374&point=183D3D&area=true&hide_border=true&hide_title=true&area_color=93B1A6" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=najamulsaqib&bg_color=fff&color=5C8374&line=93B1A6&point=93B1A6&area=true&hide_border=true&hide_title=true&area_color=183D3D" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=najamulsaqib&bg_color=161b22&color=93B1A6&line=5C8374&point=183D3D&area=true&hide_border=true&hide_title=true&area_color=93B1A6" width="100%" />
   </picture>
