@@ -76,7 +76,7 @@
 ```diff
 +    +3 Node.js 🚀, JavaScript 🌐, React ⚛️
 +    +2 React Native 📱, TypeScript 🧰
-+    +1 Python 🐍
++    +1 Python 🐍, Next 🧙‍♂️
 
 -    Sleep 😴 (Only when absolutely necessary, otherwise I'm coding dreams!)
 ```
