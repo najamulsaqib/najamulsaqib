@@ -62,15 +62,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200">
 </p>
-
-</pre> -->
-
-**Character Specs:**
-```diff
-+    +3 Node, TS, React
-+    +2 React Native
-+    +1 Python
-```
+</pre> 
 
 <p align="center">
   <picture>
@@ -79,6 +71,42 @@
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
   </picture>
 </p>
+-->
+```js
+const MySkills = {
+  frontend: ['React', 'React Native', 'Next', 'TypeScript'],
+  backend: ['Express', 'TypeScript'],
+  database: ['MongoDB'],
+};
+
+const MyMotto = 'Code like there\'s no Stack Overflow!';
+
+const MyPortfolio = {
+  status: 'Under Construction',
+  bugs: 'Zero (I hope)',
+  coffeeConsumed: 'Way too much',
+};
+
+const MyReaction = () => {
+  if (MyPortfolio.status === 'Under Construction') {
+    return '😅 Stay tuned for awesomeness!';
+  } else if (MyPortfolio.bugs === 'Zero (I hope)') {
+    return '🚀 Launching perfection!';
+  } else {
+    return '😎 Ready for action!';
+  }
+};
+```
+
+
+<!--
+**Character Specs:**
+```diff
++    +3 Node, TS, React
++    +2 React Native
++    +1 Python
+```
+-->
 
 <!--
 <p align="center">
