@@ -132,14 +132,14 @@ const MyReaction = () => {
 -->
 
 <p align="center">
- 	<a href="https://github.com/najamulsaqib"><img src="https://img.icons8.com/doodle/48/github--v1.png" alt="GitHub"/></a>
- 	<a href="https://www.linkedin.com/in/1najamulsaqib/"><img src="https://img.icons8.com/doodle/48/linkedin-circled.png" alt="LinkedIn"/></a>
-<!--  	<a href="https://www.facebook.com/1najamulsaqib/"><img src="https://img.icons8.com/doodle/48/facebook-circled.png" alt="Facebook"/></a> -->
-<!--  	<a href="https://www.instagram.com/1najamulsaqib/"><img src="https://img.icons8.com/doodle/48/instagram-new.png" alt="Instagram"/></a> -->
-<!--  	<a href="https://twitter.com/1najamulsaqib"><img src="https://img.icons8.com/doodle/48/old-twitter-logo.png" alt="Twitter"/></a> -->
- 	<a href="mailto:1najamulsaqib@gmail.com"><img src="https://img.icons8.com/doodle/48/gmail.png" alt="Mail"/></a>
+ 	<a href="https://github.com/najamulsaqib" target="_blank"><img src="https://img.icons8.com/doodle/48/github--v1.png" alt="GitHub"/></a>
+ 	<a href="https://www.linkedin.com/in/1najamulsaqib/" target="_blank"><img src="https://img.icons8.com/doodle/48/linkedin-circled.png" alt="LinkedIn"/></a>
+<!--  	<a href="https://www.facebook.com/1najamulsaqib/" target="_blank"><img src="https://img.icons8.com/doodle/48/facebook-circled.png" alt="Facebook"/></a> -->
+<!--  	<a href="https://www.instagram.com/1najamulsaqib/" target="_blank"><img src="https://img.icons8.com/doodle/48/instagram-new.png" alt="Instagram"/></a> -->
+<!--  	<a href="https://twitter.com/1najamulsaqib" target="_blank"><img src="https://img.icons8.com/doodle/48/old-twitter-logo.png" alt="Twitter"/></a> -->
+ 	<a href="mailto:1najamulsaqib@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/48/gmail.png" alt="Mail"/></a>
 </p>
 
 <p align="right">
- 	<a href="https://najamulsaqib.me/"><img src="https://img.icons8.com/doodle/48/trollface.png" alt="Website"/></a>
+ 	<a href="https://najamulsaqib.me/" target="_blank"><img src="https://img.icons8.com/doodle/48/trollface.png" alt="Website"/></a>
 </p>
