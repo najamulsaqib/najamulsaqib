@@ -90,7 +90,7 @@ const MySkills = {
 
 const MyMotto = 'Code like there\'s no Stack Overflow!';
 
-const magicSpells = [
+const MagicSpells = [
   'AbraKadabra(ReactComponent) 🎩',
   'Wingardium LevioData(MongoDB) 🪄',
   'Expecto Patronus(Next.js) 🌟',
