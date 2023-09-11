@@ -80,6 +80,16 @@
 
 -    Sleep 😴 (Only when absolutely necessary, otherwise I'm coding dreams!)
 ```
+<!--
+const MagicSpells = [
+  'AbraKadabra(ReactComponent) 🎩',
+  'Wingardium LevioData(MongoDB) 🪄',
+  'Expecto Patronus(Next.js) 🌟',
+  'Accio Error(Debugging) 🔍',
+  'Alohomora(Open Source) 🪙',
+  'YerAWizard, TypeScript! ⚡',
+];
+-->
 
 ```js
 const MySkills = {
@@ -89,15 +99,6 @@ const MySkills = {
 };
 
 const MyMotto = 'Code like there\'s no Stack Overflow!';
-
-const MagicSpells = [
-  'AbraKadabra(ReactComponent) 🎩',
-  'Wingardium LevioData(MongoDB) 🪄',
-  'Expecto Patronus(Next.js) 🌟',
-  'Accio Error(Debugging) 🔍',
-  'Alohomora(Open Source) 🪙',
-  'YerAWizard, TypeScript! ⚡',
-];
 
 const MyPortfolio = {
   status: 'Under Construction',
