@@ -105,16 +105,6 @@ const MyPortfolio = {
   bugs: 'Zero (I hope)',
   coffeeConsumed: 'Way too much',
 };
-
-const MyReaction = () => {
-  if (MyPortfolio.status === 'Under Construction') {
-    return '😅 Stay tuned for awesomeness!';
-  } else if (MyPortfolio.bugs === 'Zero (I hope)') {
-    return '🚀 Launching perfection!';
-  } else {
-    return '😎 Ready for action!';
-  }
-};
 ```
 
 <!--
