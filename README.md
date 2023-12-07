@@ -71,7 +71,7 @@
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
   </picture>
 </p>
--->
+
 
 ```diff
 +    +3 Node.js 🚀, JavaScript 🌐, React ⚛️
@@ -80,6 +80,7 @@
 
 -    Sleep 😴 (Only when absolutely necessary, otherwise I'm coding dreams!)
 ```
+-->
 <!--
 const MagicSpells = [
   'AbraKadabra(ReactComponent) 🎩',
@@ -89,7 +90,7 @@ const MagicSpells = [
   'Alohomora(Open Source) 🪙',
   'YerAWizard, TypeScript! ⚡',
 ];
--->
+
 
 ```js
 const MySkills = {
@@ -106,7 +107,7 @@ const MyPortfolio = {
   coffeeConsumed: 'Way too much',
 };
 ```
-
+-->
 <!--
 <p align="center">
   <picture>
@@ -120,17 +121,18 @@ const MyPortfolio = {
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
 </p>
--->
+
 
 <p align="center">
  	<a href="https://github.com/najamulsaqib" target="_blank"><img src="https://img.icons8.com/doodle/48/github--v1.png" alt="GitHub"/></a>
  	<a href="https://www.linkedin.com/in/1najamulsaqib/" target="_blank"><img src="https://img.icons8.com/doodle/48/linkedin-circled.png" alt="LinkedIn"/></a>
-<!--  	<a href="https://www.facebook.com/1najamulsaqib/" target="_blank"><img src="https://img.icons8.com/doodle/48/facebook-circled.png" alt="Facebook"/></a> -->
-<!--  	<a href="https://www.instagram.com/1najamulsaqib/" target="_blank"><img src="https://img.icons8.com/doodle/48/instagram-new.png" alt="Instagram"/></a> -->
-<!--  	<a href="https://twitter.com/1najamulsaqib" target="_blank"><img src="https://img.icons8.com/doodle/48/old-twitter-logo.png" alt="Twitter"/></a> -->
+ 	<a href="https://www.facebook.com/1najamulsaqib/" target="_blank"><img src="https://img.icons8.com/doodle/48/facebook-circled.png" alt="Facebook"/></a>
+ 	<a href="https://www.instagram.com/1najamulsaqib/" target="_blank"><img src="https://img.icons8.com/doodle/48/instagram-new.png" alt="Instagram"/></a>
+ 	<a href="https://twitter.com/1najamulsaqib" target="_blank"><img src="https://img.icons8.com/doodle/48/old-twitter-logo.png" alt="Twitter"/></a>
  	<a href="mailto:1najamulsaqib@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/48/gmail.png" alt="Mail"/></a>
 </p>
+-->
 
-<p align="right">
- 	<a href="https://najamulsaqib.me/" target="_blank"><img src="https://img.icons8.com/doodle/48/trollface.png" alt="Website"/></a>
+<p align="center">
+ 	<a href="https://najamulsaqib.me/" target="_blank"><img src="https://github.com/najamulsaqib/najamulsaqib/assets/98382679/f9078145-150f-4b10-88dd-9eefa1119605" alt="Website" height="100px"/></a>
 </p>
