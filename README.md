@@ -119,7 +119,7 @@ const MyPortfolio = {
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
+ 	<a href="https://najamulsaqib.me/" target="_blank"><img src="https://github.com/najamulsaqib/najamulsaqib/assets/98382679/f9078145-150f-4b10-88dd-9eefa1119605" alt="Website" height="100px"/></a>
 </p>
 
 
@@ -132,7 +132,8 @@ const MyPortfolio = {
  	<a href="mailto:1najamulsaqib@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/48/gmail.png" alt="Mail"/></a>
 </p>
 -->
-
 <p align="center">
- 	<a href="https://najamulsaqib.me/" target="_blank"><img src="https://github.com/najamulsaqib/najamulsaqib/assets/98382679/f9078145-150f-4b10-88dd-9eefa1119605" alt="Website" height="100px"/></a>
+ <a href="https://najamulsaqib.me/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
+ </a>
 </p>
